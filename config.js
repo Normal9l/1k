@@ -53,7 +53,7 @@ global.nameown = 'IBNU OFFICIAL🅥⁩'
 /*============== STAFF ==============*/
 global.owner = [
   ['17099801392'],
-  ['17099801392],
+  ['17099801392'],
   ['6281807254833'],
   ['6281807254833', 'IBNU OFFICIAL🅥⁩', true]
   // [number, dia creator/owner?, dia developer?]
